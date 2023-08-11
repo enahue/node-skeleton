@@ -10,15 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SheykoWk/Node-skeleton.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SheykoWk/Node-skeleton/issues"
-  },
-  "homepage": "https://github.com/SheykoWk/Node-skeleton#readme",
+  "bugs": "",
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
